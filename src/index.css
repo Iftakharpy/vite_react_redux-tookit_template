@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+html{
+  font-family: 'Source Code Pro', monospace;
+  font-size: 1rem;
+}
+
+*, *::before,*::after{
+  margin: 0;
+  padding: 0;
+  border: none;
+  font-family: inherit;
+  font-size: inherit;
+}
+
+h1{ font-size: 2.6em; }
+h2{ font-size: 2.3em; }
+h3{ font-size: 2em; }
+h4{ font-size: 1.7em; }
+h5{ font-size: 1.4em; }
+h6{ font-size: 1.1em; }
